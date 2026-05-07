@@ -107,11 +107,7 @@ export function PhoneMockup() {
             <img
               src="/app/Screenshot_20260506_125115.jpg.jpeg"
               alt="App Screenshot"
-              className="w-full h-[112%] object-cover"
-              style={{
-                marginTop: "-8%", // Crop top
-                marginBottom: "-6%", // Crop bottom
-              }}
+              className="w-full h-full object-contain bg-black"
             />
           </div>
 

@@ -18,7 +18,7 @@ const faqs = [
   { q: "How do I register on Kalyan Matka?", a: "Registration is simple and quick. Click on the 'Download App' button, install the application, and follow the on-screen instructions to create your account using your mobile number." },
   { q: "Is it safe to add money to my wallet?", a: "Yes, absolutely. We use industry-standard encryption and partner with trusted payment gateways to ensure all your transactions are 100% secure." },
   { q: "How long does withdrawal take?", a: "We pride ourselves on instant payouts. Once you initiate a withdrawal request, the amount is typically credited to your bank account within 10-15 minutes." },
-  { q: "What are the minimum deposit and withdrawal amounts?", a: "The minimum deposit amount is ₹300, and the minimum withdrawal amount is ₹500. There is no maximum limit for withdrawals." },
+  { q: "What are the minimum deposit and withdrawal amounts?", a: "The minimum deposit amount is ₹300, and the minimum withdrawal amount is ₹1000. There is no maximum limit for withdrawals." },
 ];
 
 export default function Home() {

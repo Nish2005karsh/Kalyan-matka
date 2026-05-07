@@ -24,7 +24,6 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary",
-    site: "@Lovable",
   },
 };
 
